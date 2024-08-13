@@ -10,7 +10,6 @@ elif size=="M":
     bill+=20000
 else:
     bill+=29000
-
 if addPepperoni=="Y":
     if size=="S":
         bill+=29000
