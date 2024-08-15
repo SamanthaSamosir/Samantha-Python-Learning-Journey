@@ -1,0 +1,7 @@
+name=input("What is your name?")
+print("Your name is",name)
+print(f"Your first name is {name}")
+print("So, your name is" + " " + name)
+print("Total: " + str(len(name)))
+print(f"Length: {len(name)}")
+print("Jumlah:",len(name))
