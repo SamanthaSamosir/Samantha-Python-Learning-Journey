@@ -7,6 +7,6 @@ A method of pulling out a particular element for a string.
 name="Samantha"
 for i in name:
     print(i)
-#backward loop
-for names in name:
-    print(names)
+
+print("123"+"223")
+print(123+223)
