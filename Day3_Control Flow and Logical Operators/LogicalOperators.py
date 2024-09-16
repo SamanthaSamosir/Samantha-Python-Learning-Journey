@@ -11,7 +11,7 @@ if height>=120:
         bill=55000
         print("Please pay Rp55,000,-")
     #update here ya
-    elif age>=45 and age <=55:
+    elif age>=45 and age <=55: # 45 <= age <= 55
         print("Everything is going to be ok. Have a free ride on us.")
     else:
         bill=129000
