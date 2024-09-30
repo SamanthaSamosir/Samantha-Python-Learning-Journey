@@ -4,3 +4,6 @@ Indonesia = ["Jawa Barat", "Jawa Tengah", "Jawa Timur", "Banten", "DKI Jakarta",
 print(len(Indonesia))
 print(Indonesia[3])
 print(Indonesia[-2]) #to read from behind
+print(Indonesia)
+Indonesia[1] = "Jateng" #to change value/item Jawa Tengah to Jateng
+print(Indonesia)
